@@ -1,1 +1,1 @@
-# https-github.com-Sidd-Chauhan-Tropospherical-Ozone-Prediction-main
+# Tropospherical-Ozone-Prediction-main
